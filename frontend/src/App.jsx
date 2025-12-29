@@ -6,7 +6,7 @@ import Profile from "./pages/Profile";
 import Network from "./pages/Network";
 import About from "./pages/About";
 
-const API_BASE = "http://localhost:5000"; // change later for deployment
+const API_BASE = "https://social-graph-app.onrender.com/"; // change later for deployment
 
 export default function App() {
   return (
